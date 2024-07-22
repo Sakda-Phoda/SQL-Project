@@ -1,3 +1,5 @@
+-- Query 7: Summarize the sales for each month with a column comparing it to the previous month and showing month-on-month sales.
+
 SELECT
 	strftime('%Y-%m',transaction_date) AS Month,
 	SUM(total_amount) AS Total_Sale,

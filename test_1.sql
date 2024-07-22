@@ -1,4 +1,4 @@
-	-- Main query: Group by company type and count occurrences
+-- Query 1: Query companies of type Ltd, PLC, Inc, and LLC, and count the number of each type.
 SELECT  
     CASE 
         WHEN manufacturer LIKE '%Ltd%' THEN 'Ltd'

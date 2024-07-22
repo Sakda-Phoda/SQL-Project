@@ -1,3 +1,5 @@
+-- Query 6: Rank the products with the highest sales, displaying only products in the category with the highest sales.
+
 CREATE VIEW product_Sale AS
 	SELECT
 		transaction_id,

@@ -1,3 +1,5 @@
+-- Query 5: Find the percentile of all customers based on the sales amount each customer achieved.
+
 SELECT
     t.customer_id,
 	first_name || ' ' || last_name AS Name,

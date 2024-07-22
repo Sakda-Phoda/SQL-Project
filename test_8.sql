@@ -1,3 +1,5 @@
+-- Query 8: Pivot the sales of all branches to show the monthly sales of each branch.
+
 SELECT 
     branch_id,
     [January],

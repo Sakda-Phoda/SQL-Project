@@ -1,0 +1,101 @@
+product_id,product_name,category,price,manufacturer,brand,stock_quantity,unit
+1,Dish Soap,Household,185,Snyder-Johnson,Dawn,448,kg
+2,Laundry Detergent,Household,352,"Cobb, Garcia and Levine",Tide,449,kg
+3,All-Purpose Cleaner,Household,347,"Nash, Moore and Mills",Lysol,76,kg
+4,Coca-Cola,Beverages,421,Hoover-Chang,Cola,629,box
+5,Shampoo,Personal Care,335,Myers PLC,Head & Shoulders,863,kg
+6,Cereal,Food,250,Hamilton Group,Cheerios,728,kg
+7,Pepsi,Beverages,288,"Johnson, Jones and Smith",Diet Cola,569,pack
+8,Sprite,Beverages,32,Powell PLC,Lemon-Lime Soda,859,bottle
+9,Paper Towels,Household,82,Mays-Hudson,Bounty,534,pack
+10,Toilet Paper,Household,125,Paul-Jones,Charmin,488,piece
+11,A&W,Beverages,15,"Cruz, Martinez and Mejia",Root Beer,862,bottle
+12,Conditioner,Personal Care,430,"Wilkins, Wolf and Nicholson",Pantene,597,bottle
+13,Glass Cleaner,Household,62,Johnson-Booth,Windex,438,bottle
+14,Fanta,Beverages,327,Copeland-Blackwell,Orange Soda,922,bottle
+15,Dasani,Beverages,267,"Avila, Reyes and Cox",Bottled Water,862,box
+16,Bread,Food,435,Tate Ltd,Wonder,244,piece
+17,Potato Chips,Snacks,363,"Allen, Fox and Lee",Lay's,137,piece
+18,Pasta,Food,488,Humphrey Ltd,Barilla,885,kg
+19,Disinfectant Spray,Household,25,"Yoder, Johnson and Alvarado",Clorox,541,bottle
+20,Toothpaste,Personal Care,380,Mills LLC,Colgate,738,pack
+21,Perrier,Beverages,46,Long-Meyer,Sparkling Water,843,pack
+22,Rice,Food,469,Knight and Sons,Uncle Ben's,594,box
+23,Beans,Food,135,Montgomery and Sons,Goya,297,pack
+24,Sponges,Household,36,Davis-Rivera,Scotch-Brite,306,kg
+25,Lipton,Beverages,406,Summers and Sons,Iced Tea,449,piece
+26,Canned Soup,Food,483,Thompson-Hicks,Campbell's,81,piece
+27,Fabric Softener,Household,34,Smith-Sparks,Downy,487,box
+28,Minute Maid,Beverages,163,Hanson-Steele,Lemonade,239,piece
+29,Gatorade,Beverages,284,Stephens-Rocha,Sports Drink,709,pack
+30,Frozen Pizza,Food,274,Norris Group,DiGiorno,308,pack
+31,Tortilla Chips,Snacks,446,"Morrison, Walton and Roth",Tostitos,568,bottle
+32,Pretzels,Snacks,47,Contreras-King,Rold Gold,437,piece
+33,Air Freshener,Household,14,"Davis, Fields and Brown",Febreze,507,piece
+34,Red Bull,Beverages,368,Olsen-Simpson,Energy Drink,310,box
+35,Ice Cream,Food,440,"Young, Miller and Wells",Ben & Jerry's,936,piece
+36,Starbucks,Beverages,132,Delgado Ltd,Coffee,335,pack
+37,Toothbrush,Personal Care,162,"Garcia, Scott and Price",Oral-B,338,box
+38,Lavazza,Beverages,369,Harrison-Wyatt,Espresso,690,pack
+39,Popcorn,Snacks,343,Martinez-Thompson,Orville Redenbacher,163,kg
+40,Trash Bags,Household,355,Romero-Quinn,Glad,202,piece
+41,Cheese Puffs,Snacks,131,"Brock, Pope and Rogers",Cheetos,862,kg
+42,Mouthwash,Personal Care,149,Weber-Levine,Listerine,302,bottle
+43,Tazo,Beverages,332,Finley-Andrews,Herbal Tea,217,piece
+44,Floor Cleaner,Household,72,Robbins LLC,Swiffer,832,bottle
+45,Crackers,Snacks,151,Medina Inc,Ritz,184,piece
+46,Granola Bars,Snacks,11,Hudson-Rodgers,Nature Valley,781,piece
+47,Furniture Polish,Household,194,"Ball, Richards and May",Pledge,927,bottle
+48,Twinings,Beverages,495,"Lambert, Johnson and Davis",Green Tea,873,kg
+49,Dryer Sheets,Household,245,"Perry, Reid and Harris",Bounce,404,bottle
+50,Deodorant,Personal Care,274,Burton Ltd,Dove,992,pack
+51,Fruit Snacks,Snacks,209,"Phillips, James and Baldwin",Welch's,447,piece
+52,Yogurt,Food,306,Sanchez Group,Yoplait,686,box
+53,Trail Mix,Snacks,431,Sanchez Inc,Planters,715,piece
+54,Bleach,Household,439,"Davis, Jenkins and Houston",Purex,261,box
+55,Body Wash,Personal Care,183,Collins LLC,Nivea,655,box
+56,Swiss Miss,Beverages,454,"Diaz, King and Escobar",Hot Chocolate,987,pack
+57,Lotion,Personal Care,199,Wood PLC,Jergens,847,bottle
+58,Oven Cleaner,Household,81,Little-Holt,Easy-Off,990,kg
+59,Silk,Beverages,240,"Hogan, Pearson and Tate",Almond Milk,467,pack
+60,Beef Jerky,Snacks,139,Alvarado-Soto,Jack Link's,582,kg
+61,Shaving Cream,Personal Care,145,Wilson PLC,Gillette,598,box
+62,Bathroom Cleaner,Household,136,Perry-Patterson,Scrubbing Bubbles,432,pack
+63,Nuts,Snacks,412,Marsh and Sons,Blue Diamond,74,kg
+64,Peanut Butter,Food,380,"Jones, Murphy and Sullivan",Jif,355,box
+65,Stain Remover,Household,99,Short Inc,OxiClean,355,box
+66,Rice Cakes,Snacks,313,Fischer-Barrett,Quaker,422,kg
+67,Jelly,Food,360,Estrada-Zavala,Smucker's,875,kg
+68,Snack Mix,Snacks,129,Townsend-Bailey,Chex Mix,454,bottle
+69,Razor,Personal Care,411,Rivera-Munoz,Schick,188,pack
+70,Alpro,Beverages,50,"White, Jacobson and Perez",Soy Milk,723,kg
+71,Vacuum Bags,Household,10,Robinson and Sons,Hoover,913,bottle
+72,Ketchup,Food,128,"Lewis, Holt and Richards",Heinz,240,kg
+73,Chocolate Bars,Snacks,340,"Morales, Beck and Mendoza",Hershey's,811,kg
+74,Mayonnaise,Food,374,"Mckee, Wade and Hernandez",Hellmann's,452,piece
+75,Vita Coco,Beverages,348,Santana Group,Coconut Water,157,kg
+76,Mop,Household,230,"Russell, Randall and Cruz",O-Cedar,860,piece
+77,Face Wash,Personal Care,315,Holloway PLC,Neutrogena,897,box
+78,Hand Sanitizer,Personal Care,172,Stephens and Sons,Purell,540,kg
+79,Candy,Snacks,338,Moreno-Dixon,Skittles,110,kg
+80,Muscle Milk,Beverages,437,"Brown, Richardson and Hanna",Protein Shake,312,pack
+81,Mustard,Food,260,"Anderson, Banks and Wolf",French's,75,box
+82,Salad Dressing,Food,142,"Long, Smith and Williams",Kraft,607,pack
+83,BBQ Sauce,Food,112,Brock PLC,Sweet Baby Ray's,736,box
+84,Ironing Board,Household,454,"Cox, Huang and Cox",Homz,218,piece
+85,Gummies,Snacks,24,"Gregory, Haynes and Brown",Haribo,100,pack
+86,Tropicana,Beverages,167,Michael Ltd,Fruit Juice,679,bottle
+87,Laundry Hamper,Household,111,Brown LLC,Whitmor,650,bottle
+88,Sunscreen,Personal Care,184,Dixon PLC,Coppertone,378,pack
+89,Pop Tarts,Snacks,99,"Small, Taylor and Wallace",Kellogg's,618,pack
+90,Naked,Beverages,279,Robertson-Garcia,Smoothie,80,kg
+91,Air Purifier,Household,219,Perry-Moore,Honeywell,545,piece
+92,Crackers & Cheese,Snacks,361,Burton Inc,Handi-Snacks,644,box
+93,Pita Chips,Snacks,461,Adams-Clark,Stacy's,296,piece
+94,Lip Balm,Personal Care,156,"Jackson, Boyd and Navarro",ChapStick,543,piece
+95,Vitaminwater,Beverages,355,Long-Smith,Flavored Water,322,bottle
+96,Light Bulbs,Household,84,"Duarte, Flores and Dickerson",Philips,773,bottle
+97,Extension Cords,Household,225,Gonzalez-Garcia,GE,319,piece
+98,Power Strips,Household,228,Mckinney and Sons,Belkin,815,pack
+99,Soy Sauce,Food,471,"Matthews, Cervantes and Quinn",Kikkoman,113,piece
+100,Olive Oil,Food,213,Blake-Garrett,Bertolli,729,pack

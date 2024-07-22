@@ -1,4 +1,6 @@
--- Query 1: Selecting customer details and total sales, grouped by customer ID
+-- Query 3: Query the top 100 customers with the highest purchase amounts, including details such as customer ID, first and last name, email, and phone number. (For this query, there are two codes with the same result, but it is recommended to use the first code as it runs faster.)
+
+-- First query: Selecting customer details and total sales, grouped by customer ID
 SELECT
     t.customer_id,
     first_name || ' ' || last_name AS Customer_Name,
@@ -11,7 +13,7 @@ GROUP BY t.customer_id
 ORDER BY Total_Sale DESC
 LIMIT 100;
 
--- Query 2: Another method to query the same result using a window function
+-- Another way: Another method to query the same result using a window function
 SELECT
     DISTINCT t.customer_id,
     first_name || ' ' || last_name AS Customer_Name,

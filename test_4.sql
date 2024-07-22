@@ -1,13 +1,16 @@
+-- Query 4: Analyze the purchase history of the customer with the highest sales, including the purchase dates, products, quantities, and sales amounts. Also, specify the total sales this customer has made with our store from the beginning and the percentage of each purchase.
+
 -- CTE to get the top customer by total sale
-WITH top_customer AS (
-    SELECT
-        customer_id,
-        SUM(total_amount) AS total_sale
-    FROM trans 
-    GROUP BY customer_id
-    ORDER BY total_sale DESC
-    LIMIT 1
-)
+WITH top_customer AS 
+    (
+        SELECT
+            customer_id,
+            SUM(total_amount) AS total_sale
+        FROM trans 
+        GROUP BY customer_id
+        ORDER BY total_sale DESC
+        LIMIT 1
+    )
 
 -- Main query to get the transactions of the top customer and calculate percentage of total sale
 SELECT

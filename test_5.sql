@@ -2,7 +2,7 @@
 
 SELECT
     t.customer_id,
-	first_name || ' ' || last_name AS Name,
+    first_name || ' ' || last_name AS Name,
     SUM(total_amount) AS Total_Sale,
     NTILE(100) OVER (ORDER BY total_amount) AS 'Percentile'
 FROM trans t

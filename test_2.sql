@@ -7,7 +7,7 @@ monthly_sales AS
 	    SELECT 
 	        strftime('%Y-%m', transaction_date) AS Month,
 	        COUNT(transaction_id) AS Number_of_Transaction,
-			SUM(total_amount) AS Total_Sale
+		SUM(total_amount) AS Total_Sale
 	    FROM trans
 	    GROUP BY Month
 	),
